@@ -3,8 +3,8 @@
  */
 
 // for loop
-class FizzBuzz 
-    {
+class FizzBuzz {
+    
     public static void main(String[] args) {
 
         doFizzBizz();
