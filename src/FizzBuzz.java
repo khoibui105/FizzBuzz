@@ -3,7 +3,7 @@
  */
 
 // for loop
-class FizzBuzzzzzzz
+class FizzBuzzzz
     {
     public static void main(String[] args) {
 
